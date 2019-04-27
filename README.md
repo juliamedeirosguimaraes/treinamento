@@ -1,1 +1,2 @@
 # treinamento
+printf("Qualquer coisa");
